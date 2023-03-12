@@ -1,1 +1,0 @@
-Desarrolla un algoritmo que le pida al usuario por su nombre y que lo salude con su nombre, excepto si se llama “Ana”, “Juan”, y “Pedro”:
